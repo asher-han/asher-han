@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi,%20I'm%20Asher%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Infrastructure%20Engineer%20·%20Cloud%20%26%20Automation&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi,%20I'm%20Asher%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=System%20Engineer%20·%20Cloud%20·%20Automation&descAlignY=58&descSize=18" width="100%" />
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm an infrastructure engineer who keeps services **stable, efficient, and automated**.
+I'm an system engineer who keeps services **stable, efficient, and automated**.
 
 Building on hands-on experience operating systems in **hybrid cloud environments** spanning on-premise IDCs and multiple public clouds, I currently operate and automate infrastructure for an **OVP (Online Video Platform)** and **e-commerce platforms**.
 
